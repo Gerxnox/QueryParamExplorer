@@ -24,4 +24,4 @@ Query parameters are the hidden keys to understanding how websites interact, evo
    ```bash
    git clone https://github.com/Gerxnox/QueryParamExplorer.git
    cd QueryParamExplorer
-   ./query_param_explorer.sh
+   ./QueryParamExplorer.sh
